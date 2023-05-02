@@ -1,0 +1,21 @@
+.box:not(:first-child) {
+  margin-top: 20px;
+}
+
+.box-a {
+  height: 50px;
+  width: 50px;
+  background-color: red;
+}
+
+.box-b {
+  height: 50px;
+  width: 50px;
+  background-color: blue;
+}
+
+.box-c {
+  height: 50px;
+  width: 50px;
+  background-color: violet;
+}
